@@ -1,0 +1,11 @@
+R_District
+R_Vegetation2000
+R_Water2000
+R_Building2000
+L_VillageEdge
+L_Edge
+L_Road2000
+L_ROADCENTER
+P_INFO
+P_Village
+P_WFactory
